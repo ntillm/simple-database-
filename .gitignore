@@ -1,0 +1,6 @@
+build/
+*.swp
+*.swo
+*~
+.*.swp
+.main.c.swp
